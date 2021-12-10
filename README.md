@@ -1,2 +1,1 @@
-# InspireGourmet-IFPE
- Inspire  Gourmet
+# InspireGourmet
